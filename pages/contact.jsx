@@ -26,7 +26,7 @@ export default function Home() {
                         <p className="font-semibold text-xl">albayrakxel?#0001</p>
                     </div>
                 </a>
-                <a href="mailto:umutbayraktar55@gmail.com">
+                <a href="mailto:emirhanozpinar@hotmail.com">
                     <div className="mt-2 flex justify-between bg-zinc-500/5 hover:bg-zinc-500/10 transition-all duration-200 px-4 py-2 rounded-lg items-center">
                         <i className="fa fa-envelope fa-2x" />
                         <p className="font-semibold text-xl">emirhanozpinar@hotmail.com</p>
