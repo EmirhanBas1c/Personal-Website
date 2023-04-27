@@ -6,8 +6,8 @@ const items = [
 
 const navItems = [
     { icon: 'fal fa-home', active: 'fa fa-home', label: 'Home', href: '/' },
-    { icon: 'fal fa-compass', active: 'fa fa-compass', label: 'Projects', href: '/projects' },
-    { icon: 'fal fa-phone', active: 'fa fa-phone', label: 'Contact', href: '/contact' },
+    { icon: 'fal fa-compass', active: 'fa fa-compass', label: 'Projects', href: '/' },
+    { icon: 'fal fa-phone', active: 'fa fa-phone', label: 'Contact', href: '/' },
 ]
 
 import Link from 'next/link';
