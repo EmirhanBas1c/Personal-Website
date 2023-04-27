@@ -32,12 +32,6 @@ export default function Home() {
                         <p className="font-semibold text-xl">emirhanozpinar@hotmail.com</p>
                     </div>
                 </a>
-     <a target="_blank" rel="norefferer" href="steam://connect/185.193.165.36:27015">
-                    <div className="mt-2 flex justify-between bg-zinc-500/5 hover:bg-zinc-500/10 transition-all duration-200 px-4 py-2 rounded-lg items-center">
-                        <i className="fab fa-steam fa-2x" />
-                        <p className="font-semibold text-xl">Godzilla Jailbreak CS:GO Server</p>
-                    </div>
-                </a>
             </div>
         </div>
       </div>
