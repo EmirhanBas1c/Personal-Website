@@ -9,7 +9,7 @@ export default async (req, res) => {
     },
     {
       id: 2,
-      image: "https://cdn.discordapp.com/attachments/994700975522730125/1101630494656970813/spotify.jpg",
+      image: "https://cdn.discordapp.com/attachments/994700975522730125/1101630943640428564/Spotify_icon.svg.png",
       name: "Spotify",
       description: "I create playlists occasionally on my personal Spotify account.",
       link: "https://sptfy.com/albayrakxel",
