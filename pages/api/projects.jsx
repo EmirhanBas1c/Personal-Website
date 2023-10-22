@@ -13,6 +13,7 @@ export default async (req, res) => {
       name: "Spotify",
       description: "I create playlists occasionally on my personal Spotify account.",
       link: "https://sptfy.com/albayrakxel",
+    },
     {
       id: 3,
       image: "https://cdn.discordapp.com/attachments/1005003050928312380/1165585266589835324/minecraft-mods.png",
