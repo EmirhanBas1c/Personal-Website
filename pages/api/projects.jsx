@@ -13,7 +13,7 @@ export default async (req, res) => {
       name: "Spotify",
       description: "I create playlists occasionally on my personal Spotify account.",
       link: "https://sptfy.com/albayrakxel",
-    },
+    }
       
     }
   ];
