@@ -28,7 +28,7 @@ export default function Home() {
                 </a>
                 <a target="_blank" rel="norefferer" href=" https://instagram.com/hozpinar419/">
                     <div className="mt-2 flex justify-between bg-zinc-500/5 hover:bg-zinc-500/10 transition-all duration-200 px-4 py-2 rounded-lg items-center">
-                        <i className="fa fa-instagram fa-2x" />
+                        <i className="fab fa-instagram fa-2x" />
                         <p className="font-semibold text-xl">@hozpinar419</p>
                     </div>
                 </a>
