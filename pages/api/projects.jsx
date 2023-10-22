@@ -14,7 +14,7 @@ export default async (req, res) => {
       description: "I create playlists occasionally on my personal Spotify account.",
       link: "https://sptfy.com/albayrakxel",
     {
-      id: 1,
+      id: 3,
       image: "https://cdn.discordapp.com/attachments/1005003050928312380/1165585266589835324/minecraft-mods.png",
       name: "Mod Paketi",
       description: "1.12.2 Sürümüne uygun minecraft mod paketi.",
