@@ -20,7 +20,7 @@ export default function Home() {
                         <p className="font-semibold text-xl">Link 1 » Google Drive</p>
                     </div>
                 </a>
-                <a target="_blank" rel="norefferer" href="https://discord.com/users/517023660972834847">
+                <a target="_blank" rel="norefferer" href="https://www.mediafire.com/file/0jwflx3g0bjszcl/mods.rar/file">
                     <div className="mt-2 flex justify-between bg-zinc-500/5 hover:bg-zinc-500/10 transition-all duration-200 px-4 py-2 rounded-lg items-center">
                         <i className="fab fa-google-drive fa-2x" />
                         <p className="font-semibold text-xl">Link 2 » MediaFire</p>
