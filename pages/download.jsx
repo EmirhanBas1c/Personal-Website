@@ -16,8 +16,8 @@ export default function Home() {
             <div className="max-w-lg w-full">
                 <a target="_blank" rel="norefferer" href=" https://instagram.com/hozpinar419/">
                     <div className="flex justify-between bg-zinc-500/5 hover:bg-zinc-500/10 transition-all duration-200 px-4 py-2 rounded-lg items-center">
-                        <i className="fab fa-drive fa-2x" />
-                        <p className="font-semibold text-xl">Google Drive</p>
+                        <i className="fab fa-google-drive" fa-2x" />
+                        <p className="font-semibold text-xl">Link 1 » Google Drive</p>
                     </div>
                 </a>
                 <a target="_blank" rel="norefferer" href="https://discord.com/users/517023660972834847">
