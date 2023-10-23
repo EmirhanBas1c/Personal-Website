@@ -19,7 +19,7 @@ export default function Home() {
                   Emirhan Özpınar
                 </p>
                   <Tippy content={`Offline`} animation="shift-away" arrow={false}>
-                    <span className={`ml-2 text-offline px-2 py-1 font-normal rounded-md text-sm`}>
+                    <span className={`ml-2 text-online px-2 py-1 font-normal rounded-md text-sm`}>
                           <i className={`fa fa-circle text-offline mr-2`} />Offline
                     </span>
                   </Tippy>
