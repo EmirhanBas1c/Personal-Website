@@ -7,3 +7,4 @@ export default function Home() {
   const { data: _projects } = swr('/api/projects');
   const projects = _projects ? _projects : null;
 
+return
